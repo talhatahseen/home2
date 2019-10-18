@@ -1,0 +1,22 @@
+body
+{
+	background-image: url("nflcommercial.gif");
+}	
+a
+{
+	background-color: white;
+}
+h1
+{
+	background-color: lightblue;
+}
+h2
+{
+	background-color: lightblue;
+	color: purple;
+}
+p
+{
+	background-color: lightblue;
+	color: purple;
+}	

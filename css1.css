@@ -1,0 +1,35 @@
+body {
+     background-image: url("obj2.gif");
+	 
+}
+a
+{
+	background-color: lightblue;
+}
+ h1 
+{
+     color: purple;
+     background-color: lightblue;
+}
+ h2 
+{
+     background-color: lightblue;
+     color: purple;
+}
+
+ p 
+{
+     background-color: lightblue;
+	 font-size: 20px;
+     color: red;
+}
+ ul 
+{
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: #1399ff;
+	 font-size: 20pt;
+}
+

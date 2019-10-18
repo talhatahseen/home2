@@ -1,0 +1,28 @@
+body 
+{
+    background-image: url("lsu.gif");
+}
+a
+{
+	background-color: white;
+}	
+ h1 
+{
+    background-color: lightblue;
+}
+ h2 
+{
+    background: purple;
+    color: yellow;
+}
+ p 
+{
+    background-color: purple;
+    color: yellow;
+}
+ tr 
+{
+    background-color: lightblue;
+    color: purple;
+}
+ 

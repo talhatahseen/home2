@@ -1,0 +1,18 @@
+body
+{
+	background-image: url("family.jpeg");
+}
+a
+{
+	background-color: white;
+}
+p
+{
+	background-color: lightblue;
+	color: red;
+	font-size: 15pt;
+}
+h1, h2
+{
+	background-color: lightblue;
+}	
